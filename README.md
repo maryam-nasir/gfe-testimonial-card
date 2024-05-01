@@ -21,5 +21,5 @@ The project is live and can be accessed [here](https://maryam-nasir.github.io/gf
 ## Author
 
 - LinkedIn - [Maryam Nasir](https://www.linkedin.com/in/maryam-nasir/)
-- Frontend Mentor - [@maryam-nasir](https://www.frontendmentor.io/profile/maryam-nasir)
+- GreatFrontEnd - [@maryam](https://www.greatfrontend.com/projects/u/maryam)
 - Twitter - [@maryamnasir555](https://twitter.com/maryamnasir555)
