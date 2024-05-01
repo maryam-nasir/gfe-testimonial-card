@@ -6,6 +6,8 @@ This testimonial card is a solution to the starter project taken from GreatFront
 
 ### Screenshot
 
+![](./screenshot.png)
+
 ## Tech Stack
 
 - Semantic HTML5 Markup
